@@ -71,3 +71,9 @@ Assign a variable to your Urban Grocers Server URL for efficiency and choose one
 
 - *Step 2* Input your test data into VS Code under each corresponding test and run the test npx jest tests/your request/Handlers.test.js into the Command line
 💡 It’s possible you will find bugs in the API endpoints. For example, if an endpoint returns 504 instead of 400, you may have found a bug. The important part (for these tasks) is that you are able to create code that can query the endpoints.
+
+# Project 7 Review 1 
+- Below I have listed the updated changes to my project. As well as comments I have formulated after reading your review.
+- For correction I applied changes to the PUT Test Request. The JSON should parse without difficulty and the test should run successfully. Additionally, I have updated the config.js file with a new API URL. Thank you for taking the time to review my project. 
+Resctfully, 
+Ben Whitty  
